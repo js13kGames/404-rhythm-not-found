@@ -1,4 +1,8 @@
 ---
+genres:
+  - music
+  - party
+  - arcade
 post: https://blog.slashie.net/2020/09/18/404-rhythm-not-found-js13k-2020/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
